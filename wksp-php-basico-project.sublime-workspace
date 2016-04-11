@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"Contr",
+				"controller"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"P",
+				"Post"
+			],
+			[
+				"Post",
+				"post"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"toggl",
+				"Toggle Block Comment"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Fornax/Documents/docker/danilo/www/default/vida",
+		"/C/Users/Fornax/Documents/docker/danilo/www/default/index.html",
+		"/C/Users/Fornax/Documents/docker/danilo/docker-compose.yml",
+		"/C/Users/Fornax/Documents/docker/docker-compose.yml",
+		"/C/Users/Fornax/Documents/docker-compose.yml",
+		"/C/workspace/ipt/Adreninline3/www/noticias.html",
+		"/C/workspace/ipt/Adreninline3/www/equipe.html",
+		"/C/workspace/ipt/Adreninline3/www/obrigado.html",
+		"/C/workspace/ipt/Adreninline3/www/contato.html",
+		"/C/workspace/ipt/Adreninline3/www/teladelogin.html",
+		"/C/workspace/ipt/Adreninline3/www/siganos.html",
+		"/C/workspace/ipt/Adreninline3/www/aulas.html",
+		"/C/workspace/ipt/Adreninline3/www/materialize.html",
+		"/C/workspace/ipt/Adreninline3/www/aulas-desenv.html",
+		"/C/workspace/ipt/Adreninline3/www/videos.html",
+		"/C/workspace/ipt/Adreninline3/www/teste5.html",
+		"/C/workspace/ipt/Adreninline3/www/teste4.html",
+		"/C/workspace/ipt/Adreninline3/www/teste3.html",
+		"/C/workspace/ipt/Adreninline3/www/teste2.html",
+		"/C/workspace/ipt/Adreninline3/www/teste.html",
+		"/C/workspace/ipt/Adreninline3/www/telatravada.html",
+		"/C/Users/Fornax/Code/Laravel/resources/views/welcome.blade.php",
+		"/C/Users/Fornax/Code/Laravel/app/Http/Controllers/WelcomeController.php",
+		"/C/Users/Fornax/Code/Laravel/app/Http/routes.php",
+		"/C/Users/Fornax/Code/Laravel/app/Http/Controllers/PostController.php",
+		"/C/Users/Fornax/Code/Laravel/resources/views/post/index.blade.php",
+		"/C/Users/Fornax/Code/Laravel/database/migrations/2015_11_19_150326_post.php",
+		"/C/Users/Fornax/Code/Laravel/.env",
+		"/C/Users/Fornax/Code/Laravel/app/Http/Controllers/CategoryController.php",
+		"/C/Users/Fornax/Code/Laravel/resources/views/cats/index.blade.php",
+		"/C/Users/Fornax/Code/Laravel/resources/views/home.blade.php",
+		"/C/Users/Fornax/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Fornax/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Fornax/Code/Laravel/resources/views/index.blade.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/app/Http/routes.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/resources/views/post/index.blade.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/app/Http/Controllers/PostController.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/database/migrations/2015_11_19_150326_Post.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/config/database.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/.env",
+		"/C/Users/Fornax/Code/danilo/Laravel/app/Post.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/public/index.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/resources/views/home.blade.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/resources/views/post/index.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/resources/views/welcome.blade.php",
+		"/C/Users/Fornax/Code/danilo/Laravel/config/app.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"https://www.facebook.com/equipeadreninline/posts/565014877008244",
+			"http://www.facebook.com/v2.3/plugins/post.php?app_id=&channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D42%23cb%3Df2c5cdc4c4%26domain%3Dlocalhost%26origin%3Dhttp%253A%252F%252Flocalhost%252Ff14d088968%26relation%3Dparent.parent&container_width=1333&href=https%3A%2F%2Fwww.facebook.com%2Fequipeadreninline%2Fposts%2F564871253689273%3A0&locale=pt_BR&sdk=joey&width=500",
+			"https://www.facebook.com/equipeadreninline/posts/564871253689273:0",
+			"good",
+			"good day",
+			"'",
+			"posts",
+			"DB_DATABASE",
+			"secret",
+			"h\n            ",
+			"\n            ",
+			"/",
+			"Route::get(''); //devolver uma view contendo uma lista\nRoute::get('criar'); //devolver uma view com Form\nRoute::get('{id}/editar'); //devolve uma view com o Form preenchido\nRoute::post('salvar'); //Salvar info no Banco de Dados\nRoute::post('{id}/atualizar'); //salva info no BD\nRoute::post('{id}/remover'); //Remove registro no BD	",
+			"categorias",
+			"posts",
+			"laravel.posts",
+			"posts",
+			"Sistema Gerenciador de Alunos"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 247.0,
+	"status_bar_visible": true
+}

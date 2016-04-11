@@ -1,7 +1,10 @@
 /target/
 /target/*
+/servidor-docker-php/
+/servidor-docker-php/*
 
 .class
 .settings
 .project
 .classpath
+README.md
