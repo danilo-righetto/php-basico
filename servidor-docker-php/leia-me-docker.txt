@@ -1,0 +1,20 @@
+﻿Comandos necessários para o controle dos Containers do Docker:
+
+Para encontrar o ip de um container use:
+$docker inspect [nome-do-container]
+
+Para criar um novo container descartavel use:
+$ docker run --rm -it ubuntu bash
+
+Para instalar no ubuntu o mysql-client use:
+$ apt-get install -y mysql-client
+
+Para acessar o banco de dados de um outro container use:
+$mysql -h 172.17.0.2 -u dev -p
+$mysql -h 172.17.0.3 -u root -p
+$mysql -h 172.17.0.2 -u root -p
+
+Criando um usuario "mysql" e dando privilegios no "mysql":
+
+CREATE USER 'php'@'172.17.0.2' IDENTIFIED BY 'root';
+GRANT ALL PRIVILEGES ON *.* TO 'php'@'172.17.0.2' WITH GRANT OPTION;
