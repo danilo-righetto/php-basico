@@ -1,7 +1,6 @@
 <?php
 
 // Mostra todas as informações, usa o padrão INFO_ALL
-echo("Danilo Righetto - Curso de PHP Basico");
 echo("Curso da School of Net");
 
 phpinfo();
